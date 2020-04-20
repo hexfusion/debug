@@ -1,0 +1,5 @@
+[submodule "tools/oc"]
+	path = tools/oc
+	url = https://github.com/openshift/oc.git
+        branch = openshift-clients-4.5.0-202004180718
+
